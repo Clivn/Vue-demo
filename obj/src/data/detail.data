@@ -1,0 +1,21 @@
+{
+    "describe":["丘比熊:bulalalal"],
+    "show":[
+        {
+            "img":"src/assets/images/pro.jpg",
+            "title":"丘比熊"
+        },
+        {
+            "img":"src/assets/images/pro.jpg",
+            "title":"丘比熊"
+        },
+        {
+            "img":"src/assets/images/pro.jpg",
+            "title":"丘比熊"
+        },
+        {
+            "img":"src/assets/images/pro.jpg",
+            "title":"丘比熊"
+        }
+    ]
+}
